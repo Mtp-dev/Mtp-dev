@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm [Your Name]!
 
-Welcome to my GitHub profile! I'm a passionate software developer specializing in [Your Specializations] and love working on projects in [Your Interests].
+Welcome to my GitHub profile! I'm a passionate software developer. All self taught & still learning!
 
 ### 🚀 About Me
 - 🌍 Currently working on MTPHosting
