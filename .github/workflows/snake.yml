@@ -1,9 +1,8 @@
 name: Generate Snake Animation
 
-# Run every day at midnight UTC and allow manual dispatch
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Run every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Use the updated checkout action to support newer Node versions
+      # Use the updated checkout action for Node 20 compatibility
       - uses: actions/checkout@v3
 
       # Generate the snake.svg
       - name: Generate the snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3.1.0  # Latest working version of Platane/snk
         with:
           github_user_name: Mtp-dev   # Make sure this is correct
-          outputs: dist/snake.svg
+          # Removing outputs for now to troubleshoot
 
-      # Push the snake.svg to the output branch
+      # Push the snake.svg to the output branch (optional, if necessary)
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
