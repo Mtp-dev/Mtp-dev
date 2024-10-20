@@ -36,10 +36,6 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self-taug
 
 ### 🎮 Play Games
 
-- **[Play Minesweeper](https://googology.fandom.com/wiki/Minesweeper)** - Challenge yourself to a game of classic Minesweeper!
-  
-  [![Play Minesweeper](https://img.shields.io/badge/-Play%20Minesweeper-green?style=for-the-badge)](https://googology.fandom.com/wiki/Minesweeper)
-
 - **[Play Tic-Tac-Toe](https://github.com/Mtp-dev/tic-tac-toe)** - Try out Tic-Tac-Toe in markdown!
 
 ---
