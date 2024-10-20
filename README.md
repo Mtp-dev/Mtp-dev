@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Mtp-dev!
 
-Welcome to my GitHub profile! I'm a passionate software developer. All self taught & still learning!
+Welcome to my GitHub profile! I'm a passionate software developer. All self-taught & still learning!
 
 ### 🚀 About Me
 - 🌍 Currently working on MTPHosting
@@ -34,12 +34,47 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self taug
 
 ---
 
+### 🎮 Play Games
+
+- **[Play Minesweeper](https://googology.fandom.com/wiki/Minesweeper)** - Challenge yourself to a game of classic Minesweeper!
+  
+  [![Play Minesweeper](https://img.shields.io/badge/-Play%20Minesweeper-green?style=for-the-badge)](https://googology.fandom.com/wiki/Minesweeper)
+
+- **[Play Tic-Tac-Toe](https://github.com/Mtp-dev/tic-tac-toe)** - Try out Tic-Tac-Toe in markdown!
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Mtp-dev/Mtp-dev/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ### 📈 Contributions and Stats
 
 - 🔥 Most starred project: [None Yet :](https://github.com/Mtp-dev)
-- 🚀 Open source contributor at [MTPHOSTING]
-- 💼 Currently working on [MTPHOSTING]
+- 🚀 Open source contributor at [MTPHosting]
+- 💼 Currently working on [MTPHosting]
+
+---
+
+### 🎨 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mtp-dev&color=green)
+
+---
 
 ### 📫 Connect with Me
 
 - 🌐 Website: [mtp.gg](https://mtp.gg)
+
