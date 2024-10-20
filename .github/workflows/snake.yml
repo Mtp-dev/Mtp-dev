@@ -5,22 +5,24 @@ on:
     - cron: "0 0 * * *"  # Run every day at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # Ensure the action can write to the repository
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Use the updated checkout action for Node 20 compatibility
+      # Use the updated checkout action
       - uses: actions/checkout@v3
 
       # Generate the snake.svg
       - name: Generate the snake
-        uses: Platane/snk@v3.1.0  # Latest working version of Platane/snk
+        uses: Platane/snk@v3.1.0
         with:
           github_user_name: Mtp-dev   # Make sure this is correct
-          # Removing outputs for now to troubleshoot
 
-      # Push the snake.svg to the output branch (optional, if necessary)
+      # Push the snake.svg to the output branch
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
