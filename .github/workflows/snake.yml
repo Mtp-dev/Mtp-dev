@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Ensure the action can write to the repository
+  contents: write  # This ensures the action can write to the repository
+  issues: read     # Allows the action to read contributions
 
 jobs:
   build:
@@ -26,5 +27,5 @@ jobs:
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Ensure correct token usage
           publish_dir: ./dist
