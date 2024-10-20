@@ -46,9 +46,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self-taug
 
 ### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Mtp-dev/Mtp-dev/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+![GitHub Contribution Snake](https://github.com/Mtp-dev/Mtp-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
