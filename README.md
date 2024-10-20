@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm [Your Name]!
+## 👋 Hey there, I'm Mtp-dev!
 
 Welcome to my GitHub profile! I'm a passionate software developer. All self taught & still learning!
 
@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self taug
 ### 💼 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mtp-dev&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtp-dev&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtp-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self taug
 
 ### 📈 Contributions and Stats
 
-- 🔥 Most starred project: [None Yet :(]([https://github.com/yourusername/projectname](https://github.com/Mtp-dev))
+- 🔥 Most starred project: [None Yet :](https://github.com/Mtp-dev)
 - 🚀 Open source contributor at [MTPHOSTING]
 - 💼 Currently working on [MTPHOSTING]
 
