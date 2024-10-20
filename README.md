@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate software developer specializing in [Your Specializations] and love working on projects in [Your Interests].
 
 ### 🚀 About Me
-- 🌍 Currently working on [Your Current Project] (e.g., MTPHosting)
-- 💻 Experienced in [Technologies and Tools]
-- 🌱 Learning [New Technologies]
-- 🎮 Fun fact: I enjoy playing [Your Favorite Game] and working on mods for games like Minecraft.
-- 📫 How to reach me: [Your Email] or [Your Social Media Links]
+- 🌍 Currently working on MTPHosting
+- 💻 Experienced in trial & error
+- 🌱 Learning React
+- 🎮 Fun fact: I enjoy playing Satisfactory and working on mods for games like Minecraft.
+- 📫 How to reach me: mtp.dev@pm.me
 
 ---
 
@@ -36,12 +36,10 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 
 ### 📈 Contributions and Stats
 
-- 🔥 Most starred project: [Project Name](https://github.com/yourusername/projectname)
-- 🚀 Open source contributor at [Organization/Project]
-- 💼 Currently working on [Your Current Work/Job]
+- 🔥 Most starred project: [None Yet :(]([https://github.com/yourusername/projectname](https://github.com/Mtp-dev))
+- 🚀 Open source contributor at [MTPHOSTING]
+- 💼 Currently working on [MTPHOSTING]
 
 ### 📫 Connect with Me
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 Website: [mtp.gg](https://mtp.gg)
