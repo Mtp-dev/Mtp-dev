@@ -6,27 +6,26 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # This gives the action permission to write to the repository
-  actions: read    # Allows reading from the GitHub Actions API
-  issues: read     # Allows reading user contributions
+  contents: write
+  actions: read
+  issues: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - uses: actions/checkout@v3
 
       # Generate the snake.svg
       - name: Generate the snake
         uses: Platane/snk@v3.1.0
         with:
-          github_user_name: Mtp-dev  # Ensure this matches your GitHub username
+          github_user_name: Mtp-dev  # Ensure this is your GitHub username
 
       # Push the snake.svg to the output branch
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Ensure this is correct
+          github_token: ${{ secrets.PAT_TOKEN }}  # Use the personal access token (PAT)
           publish_dir: ./dist
