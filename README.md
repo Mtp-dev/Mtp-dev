@@ -40,12 +40,6 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self-taug
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![GitHub Contribution Snake](https://github.com/Mtp-dev/Mtp-dev/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📈 Contributions and Stats
 
 - 🔥 Most starred project: [None Yet :](https://github.com/Mtp-dev)
