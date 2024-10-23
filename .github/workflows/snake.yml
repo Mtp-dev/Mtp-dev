@@ -1,31 +1,31 @@
-name: Generate Snake Animation
+# name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Run every day at midnight UTC
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"  # Run every day at midnight UTC
+#   workflow_dispatch:
 
-permissions:
-  contents: write
-  actions: read
-  issues: read
+# permissions:
+#   contents: write
+#   actions: read
+#   issues: read
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v3
+#     steps:
+#       - uses: actions/checkout@v3
 
       # Generate the snake.svg
-      - name: Generate the snake
-        uses: Platane/snk@v3.1.0
-        with:
-          github_user_name: Mtp-dev  # Ensure this is your GitHub username
+#       - name: Generate the snake
+#         uses: Platane/snk@v3.1.0
+#         with:
+#           github_user_name: Mtp-dev  # Ensure this is your GitHub username
 
       # Push the snake.svg to the output branch
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.PAT_TOKEN }}  # Use the personal access token (PAT)
-          publish_dir: ./dist
+#      - name: Push to output branch
+#         uses: peaceiris/actions-gh-pages@v3
+#         with:
+#           github_token: ${{ secrets.PAT_TOKEN }}  # Use the personal access token (PAT)
+#           publish_dir: ./dist
