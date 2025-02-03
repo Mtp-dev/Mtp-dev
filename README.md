@@ -1,18 +1,21 @@
 ## 👋 Hey there, I'm Mtp-dev!
 
-Welcome to my GitHub profile! I'm a passionate software developer. All self-taught & still learning!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Self-Taught+%26+Always+Learning;Building+Awesome+Things!)](https://github.com/Mtp-dev)
+
+Welcome to my GitHub profile! I'm a passionate software developer, self-taught and always learning!
+
+---
 
 ### 🚀 About Me
-- 🌍 Currently working on MTPHosting
+- 🌍 Currently working on **MTPHosting**
 - 💻 Experienced in trial & error
-- 🌱 Learning React
-- 🎮 Fun fact: I enjoy playing Satisfactory and working on mods for games like Minecraft.
-- 📫 How to reach me: mtp.dev@pm.me
+- 🌱 Learning **React**
+- 🎮 Fun fact: I enjoy playing **Satisfactory** and working on **mods for games like Minecraft**.
+- 📫 How to reach me: **mtp.dev@pm.me**
 
 ---
 
 ### 💼 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mtp-dev&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtp-dev&theme=radical" alt="GitHub Streak Stats" />
@@ -35,21 +38,18 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self-taug
 ---
 
 ### 🎮 Play Games
-
 - **[Play Tic-Tac-Toe](https://github.com/Mtp-dev/tic-tac-toe)** - Try out Tic-Tac-Toe in markdown!
 
 ---
 
 ### 📈 Contributions and Stats
-
-- 🔥 Most starred project: [None Yet :](https://github.com/Mtp-dev)
-- 🚀 Open source contributor at [MTPHosting]
-- 💼 Currently working on [MTPHosting]
+- 🔥 Most starred project: **[None Yet :(](https://github.com/Mtp-dev)**
+- 🚀 Open source contributor at **[MTPHosting]**
+- 💼 Currently working on **[MTPHosting]**
 
 ---
 
 ### 🎨 Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
@@ -57,12 +57,9 @@ Welcome to my GitHub profile! I'm a passionate software developer. All self-taug
 ---
 
 ### 📊 Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Mtp-dev&color=green)
 
 ---
 
 ### 📫 Connect with Me
-
 - 🌐 Website: [mtp.gg](https://mtp.gg)
-
