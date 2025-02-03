@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate software developer, self-taught a
 
 ### 💼 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mtp-dev&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtp-dev&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtp-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mtp-dev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtp-dev&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtp-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -63,3 +63,4 @@ Welcome to my GitHub profile! I'm a passionate software developer, self-taught a
 
 ### 📫 Connect with Me
 - 🌐 Website: [mtp.gg](https://mtp.gg)
+
